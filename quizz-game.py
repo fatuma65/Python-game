@@ -32,3 +32,10 @@ if question == question:
     print("correct")
 else: 
     print("incorrect")
+question = input("what is the differene between github and git? ")
+if question != "GitHub is a collaboration platform that helps review and manage codes remotely while Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.":
+    print("correct")
+elif question == question:
+    print("you have tried")
+else:
+    print("incorrect")
