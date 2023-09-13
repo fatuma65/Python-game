@@ -7,11 +7,11 @@ if playing != "yes":
 else:
     print("Okay lets start")
 question = input("What country are you from? ")
-if question != "Ghana":
+if question != "Uganda":
     print("incorrect")
 else:
     print("correct")
-question = input("Do you like Cathy? ")
+question = input("What do you like? ")
 if question != "yes":
     print("incorrect")
 elif question == "Not sure":
@@ -19,16 +19,16 @@ elif question == "Not sure":
 else:
     print("correct")
 question = input("What is your favourite programming languange? ")
-if question != "java":
+if question != "python":
     print("incorrect")
-elif question == "python":
+elif question == "java":
     print("Good try")
 elif question == "javacsript":
     print("okay, i get you")
 else:
     print("i also dont know which one is your favourite.")
 question = input("What is your favourite car? ")
-if question == input:
+if question == question:
     print("correct")
 else: 
     print("incorrect")
